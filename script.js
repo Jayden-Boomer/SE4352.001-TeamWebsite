@@ -4,18 +4,18 @@
 const NAVI_DRIVE_DOCUMENTS = {
   "plan": {
     "title": "Evolving Project Plan",
-    "url": "https://drive.google.com/file/d/1VtoiTTqwCYgvv6o8Y5rHKMa5ERk0trsykcOVa5pL9cw",
-    "preview": "https://drive.google.com/file/d/1VtoiTTqwCYgvv6o8Y5rHKMa5ERk0trsykcOVa5pL9cw/preview"
+    "url": "https://drive.google.com/file/d/1hACSXPai1dtyewFtiPGW09cdF-xlPtRCoM5-7-Gh1VU",
+    "preview": "https://drive.google.com/file/d/1hACSXPai1dtyewFtiPGW09cdF-xlPtRCoM5-7-Gh1VU/preview"
   },
   "slides": {
     "title": "Navi-Revised-Slides",
-    "url": "https://drive.google.com/file/d/1PwwfpAXfEhWvgZzKQOcGmBm46Z7w4JfvNuSrhTbq1Dc",
-    "preview": "https://drive.google.com/file/d/1PwwfpAXfEhWvgZzKQOcGmBm46Z7w4JfvNuSrhTbq1Dc/preview"
+    "url": "https://drive.google.com/file/d/1jNQZcoRCkacBHKTDs9lEVU7aNvl5Re5bTEpy70zpXp0",
+    "preview": "https://drive.google.com/file/d/1jNQZcoRCkacBHKTDs9lEVU7aNvl5Re5bTEpy70zpXp0/preview"
   },
   "wrs": {
     "title": "Navi-WRS",
-    "url": "https://drive.google.com/file/d/1VwUAquMQADoZXw4wMJJkaDvKIzpP2hNjxt00DKC1rWg",
-    "preview": "https://drive.google.com/file/d/1VwUAquMQADoZXw4wMJJkaDvKIzpP2hNjxt00DKC1rWg/preview"
+    "url": "https://drive.google.com/file/d/1LT7y96SHiYgPcUXRNKzPEuwPfGUhCKLQ1s5u7DGJFtE",
+    "preview": "https://drive.google.com/file/d/1LT7y96SHiYgPcUXRNKzPEuwPfGUhCKLQ1s5u7DGJFtE/preview"
   }
 };
 
