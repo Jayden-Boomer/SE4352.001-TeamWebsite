@@ -1786,5 +1786,51 @@
             }
         }
 
+        /* What we heard */
+        .findings-section {
+            padding-block: 69px 0;
+        }
+
+        .findings-list {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 28px;
+            margin: 0;
+            padding: 26px 0 0;
+            list-style: none;
+            border-top: 1px solid var(--line);
+        }
+
+        .findings-list h3 {
+            margin: 0;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--ink);
+        }
+
+        .findings-list p {
+            margin: 9px 0 0;
+            color: var(--muted);
+            font-size: 13px;
+            line-height: 1.75;
+        }
+
+        @media (max-width: 1000px) {
+            .findings-list {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
+        @media (max-width: 740px) {
+            .findings-section {
+                padding-block: 52px 0;
+            }
+
+            .findings-list {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+        }
+
 /* Lock page scrolling while the expanded document viewer is open. */
 body.reader-open { overflow: hidden; }
